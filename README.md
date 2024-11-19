@@ -23,6 +23,7 @@ Finally built a model that has validation accuracy of 86.93
 
 ## General Information
 - Provide general information about your project here.
+
 - What is the background of your project?
 Melanoma is a type of cancer that can be deadly if not detected early. 
 It accounts for 75% of skin cancer deaths. 
